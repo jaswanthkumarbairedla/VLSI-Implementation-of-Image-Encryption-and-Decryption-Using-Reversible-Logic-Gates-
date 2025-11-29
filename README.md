@@ -1,0 +1,2 @@
+# VLSI-Implementation-of-Image-Encryption-and-Decryption-Using-Reversible-Logic-Gates-
+Implemented encryption/decryption architecture using reversible gates like  Toffoli, Fredkin, SCL and Feynman gates.   Developed LSB watermarking in MATLAB and integrated it with Verilog code.   Evaluated FPGA performance and compared results with conventional  cryptography systems.   Achieved reduced power consumption and enhanced resistance .
